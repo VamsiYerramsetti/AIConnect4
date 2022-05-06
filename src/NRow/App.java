@@ -18,7 +18,7 @@ public class App {
         game.startGame();
     }
 
-    /**
+    /***
      * Determine the players for the game
      * @param n
      * @return an array of size 2 with two Playercontrollers
